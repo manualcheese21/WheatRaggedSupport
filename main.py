@@ -4,3 +4,5 @@ for i in range(80,100):
 print()  
 for i in range(5):
   print("*")
+  print()
+  
